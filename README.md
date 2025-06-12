@@ -52,7 +52,7 @@ Before you can run this script, ensure you have the following installed:
 1.  **Download `.osm.pbf` files**: Obtain OpenStreetMap data extracts in `.osm.pbf` format. You can find these from:
 
       * **Geofabrik**: [https://download.geofabrik.de/](https://download.geofabrik.de/) (for country/region extracts)
-      * **OpenStreetMap**: [https://download.openstreetmap.fr/extracts/oceania/australia/](https://download.openstreetmap.fr/extracts/oceania/australia/) (for specific extracts like Australia)
+      * **OpenStreetMap**: [https://download.openstreetmap.fr/extracts/oceania/australia/](https://download.openstreetmap.fr/extracts/oceania/australia/) (for specific extracts like Provinces)
       * Place these `.osm.pbf` files into a dedicated folder on your system.
 
 2.  **Run the script**:
